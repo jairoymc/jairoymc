@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+}
+
+body {
+  background-color: rgb(236, 236, 213);
+  min-width: 750px;
+}
+
+.all {
+  margin: 10px 20vw;
+}
+
+.intro {
+  margin: 10px 0px;
+}
+
+.end {
+  margin-top: 10px;
+}
+.intro_portrait {
+  float: left;
+  margin-right: 5px;
+}
+
+.intro_text {
+  min-height: 200px;
+  text-indent: 20px;
+}
+
+.project {
+  display: flex;
+  margin: 10px 0;
+}
+.rightlogo {
+  max-width: 200px;
+  min-width: 200px;
+  max-height: 175px;
+  min-height: 175px;
+  margin-left: 5px;
+}
+
+.leftlogo {
+  max-width: 200px;
+  min-width: 200px;
+  max-height: 175px;
+  min-height: 175px;
+  margin-right: 5px;
+}
+
+.gt {
+  background: url("/images/gt-logo-gold.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 190px;
+  max-height: 130px;
+  min-height: 130px;
+}
+
+.ll {
+  background: url("/images/lincoln_lab-636x181.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 190px;
+}
+
+.sralab {
+  background: url("/images/shirley-ryan-abilitylab-logo.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 220px;
+  max-height: 165px;
+  min-height: 165px;
+}
+
+.mit {
+  background: url("/images/1280px-MIT_logo.svg.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 130px;
+  max-height: 150px;
+  min-height: 150px;
+}
+
+.jpl {
+  background: url("/images/JPL_logo.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 180px;
+  max-height: 150px;
+  min-height: 150px;
+}
+
+.csulb {
+  background: url("/images/400px-Beach-Big.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 200px;
+}
+
+.decription {
+  width: 100%;
+}
+
+h1 {
+  color: #2b5369;
+  border-top: 2px;
+  border-bottom: 2px;
+  border-color: #2b5369;
+  border-style: solid;
+}
+
+h3 {
+  color: #2b5369;
+}
+
+.updates {
+  margin: 10px 0px;
+}
+
+a {
+  text-decoration: none;
+}

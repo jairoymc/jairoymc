@@ -53,7 +53,7 @@ body {
 }
 
 .gt {
-  background: url("/gt-logo-gold.png");
+  background: url("./gt-logo-gold.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: 190px;
@@ -62,14 +62,14 @@ body {
 }
 
 .ll {
-  background: url("/lincoln_lab-636x181.png");
+  background: url("./lincoln_lab-636x181.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: 190px;
 }
 
 .sralab {
-  background: url("/shirley-ryan-abilitylab-logo.png");
+  background: url("./shirley-ryan-abilitylab-logo.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: 220px;
@@ -78,7 +78,7 @@ body {
 }
 
 .mit {
-  background: url("/1280px-MIT_logo.svg.png");
+  background: url("./1280px-MIT_logo.svg.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: 130px;
@@ -87,7 +87,7 @@ body {
 }
 
 .jpl {
-  background: url("/JPL_logo.png");
+  background: url("./JPL_logo.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: 180px;
@@ -96,7 +96,7 @@ body {
 }
 
 .csulb {
-  background: url("/400px-Beach-Big.png");
+  background: url("./400px-Beach-Big.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: 200px;
